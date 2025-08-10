@@ -152,11 +152,5 @@ Order ID: 1 | Customer: John Doe | Total: ₹110000.00
 
 ---
 
-## 📌 Notes
 
-* Update **`DB_URL`**, **`USER`**, and **`PASS`** in the code with your MySQL settings.
-* Ensure MySQL service is running before executing the program.
-* Email in `customers` table is unique — adding same email twice will throw an error.
-
----
 
